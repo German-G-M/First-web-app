@@ -1,0 +1,62 @@
+body {
+	background:#e1e1e1;
+}
+#cabecera {
+	width:1024;
+	height:220;
+	color:#ffffff;
+	background:#05196e; /* #05196e */
+	float:left;
+	margin-left: 150px;
+	
+}
+
+.menu {
+	width:250;
+	height:800;
+	color:#ffffff; 
+	background:#387ebe; /* #5360fe */
+	float:left;
+	margin-left: 150px;
+}
+.cuerpo {
+	width:774;
+	height:800;
+	background:#ffffff; /*#d1d3f3*/
+	float:left;
+}
+ul {
+	list-style-type: none;
+	margin: 5;
+	padding: 0;
+	width: 240px;
+	
+}
+li a {
+	display: block;
+	height: 25px;
+	text-decoration: none;
+	padding: 3;
+	color: white;
+}
+
+li a:hover {
+	background:#05196e;
+}
+
+.elegido {
+	background:none;/*#05186ecb; /*#05196e*/
+	color:whitesmoke/*#780000;*/
+}
+.pie {
+	width:1024;
+	height:260;
+	background: #002855; /*#05196e*/
+	color: rgb(250, 248, 248);
+	float: left;
+	margin-left: 150px;
+}
+.pie div{
+	margin:50px 90px;
+	float:left
+}
